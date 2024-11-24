@@ -3,5 +3,7 @@
 
 # Features
  Simple GUI
+ 
  Filter target processes by a string
+ 
  Simple and effective
